@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "eslint": "eslint .",
+    "eslint-fix": "eslint --fix ."
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
