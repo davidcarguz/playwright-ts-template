@@ -21,5 +21,8 @@
     "prettier": "2.8.8",
     "prettier-eslint": "^15.0.1",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "allure-playwright": "^2.3.0"
   }
 }
